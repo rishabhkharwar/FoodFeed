@@ -278,11 +278,6 @@ Enable verbose logs in backend by adding debug prints or logging; check console 
 
 ---
 
-## 📄 License
-
-This project is available under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## 🙏 Acknowledgments
 
